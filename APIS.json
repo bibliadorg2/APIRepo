@@ -1,0 +1,23 @@
+{
+  "conversation":{
+    {
+      "url": "https://gateway.watsonplatform.net/conversation/api",
+      "username": "7b80151f-ff64-4b33-a4b0-614a2116565f",
+      "password": "IWU5vhfJJ18Z"
+    }
+  },
+  "discovery":{
+    {
+      "url": "https://gateway.watsonplatform.net/discovery/api",
+      "username": "925ec464-fd7c-4d5c-ab91-e1ed3b1e7bff",
+      "password": "VI3cFjHSiQdS"
+    }
+  },
+  "tts":{
+    {
+      "url": "https://stream.watsonplatform.net/text-to-speech/api",
+      "username": "855d5a1c-4fdf-4857-bfb4-0a5af3ade7b1",
+      "password": "Qh07iiy8Nkja"
+    }
+  }
+}
